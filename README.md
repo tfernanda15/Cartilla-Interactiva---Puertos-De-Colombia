@@ -44,7 +44,7 @@ Esta cartilla interactiva fue desarrollada como un proyecto para SENNOVA, con el
 
 ## Enlace
 
-[Enlace a la cartilla interactiva en Heyzine]
+https://heyzine.com/flip-book/5e98085a30.html
 
 ## Imagenes o gifs
 ![Captura de Pantalla 2025-04-04 a la(s) 7 36 05 p  m](https://github.com/user-attachments/assets/c3efca07-fd05-41e7-81f5-48e07b6d869d)
